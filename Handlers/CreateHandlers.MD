@@ -33,7 +33,7 @@ constructor(props) {
     <br>
     this.EventoGenerico = this.EventoGenerico.bind(this);
     <br>
-    this.state = { objetoExemplo: false };
+    this.state = { objetoExemplo: false }
     <br>
 };
 
